@@ -1,0 +1,309 @@
+[
+  {
+    "id": 1,
+    "name": "Lesson 2",
+    "courId": 8,
+    "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 1,
+        "name": "mobile",
+        "url": "http://localhost:8000/Flutter Course for Shop App With State Management ｜ Backend ｜ Restful API ｜ Part 2.mkv",
+        "thumbnail": "http://localhost:8000/flutter3.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 13,
+        "name": "test ",
+        "url": "http://localhost:8000/Flutter Shop App ｜ Riverpod ｜ Dart ｜ Backend ｜ Part 4.mkv",
+        "thumbnail": "http://localhost:8000/flutter5.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lesson 1",
+    "courId": 8,
+    "thumbnail": "http://localhost:8000/flutter2.jpg",
+    "description": "A lesson about sample topics",
+    "video": []
+  },
+  {
+    "id": 3,
+    "name": "Lesson 3",
+    "courId": 8,
+    "thumbnail": "http://localhost:8000/flutter3.jpg",
+    "description": "A lesson about sample topics",
+    "video": []
+  },
+  {
+    "id": 4,
+    "name": "Lesson 4",
+    "courId": 8,
+    "thumbnail": "http://localhost:8000/flutter4.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 2,
+        "name": "angular",
+        "url": "http://localhost:8000/Flutter Course for Shop App With State Management ｜ Backend ｜ Restful API ｜ Part 2.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "flutter lesson1",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutter6.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 3,
+        "name": "Video 1",
+        "url": "http://localhost:8000/Flutter Tutorial All in One _ Dart _ Riverpod _ Restful API _ Backend _ Payment Gateway _  Part 1.mp4",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "flutter lesson1",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutter6.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 4,
+        "name": "Video 1",
+        "url": "http://localhost:8000/Flutter Tutorial All in One _ Dart _ Riverpod _ Restful API _ Backend _ Payment Gateway _  Part 1.mp4",
+        "thumbnail": "http://localhost:8000/flutter2.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "flutter lesson3",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutter6.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 5,
+        "name": "Video 1",
+        "url": "http://localhost:8000/Flutter Tutorial All in One _ Dart _ Riverpod _ Restful API _ Backend _ Payment Gateway _  Part 1.mp4",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "flutter1",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 6,
+        "name": "Flutter Video 1",
+        "url": "http://localhost:8000/Flutter Tutorial All in One _ Dart _ Riverpod _ Restful API _ Backend _ Payment Gateway _  Part 1.mp4",
+        "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 7,
+        "name": "Flutter Video 2",
+        "url": "http://localhost:8000/Flutter Course for Shop App With State Management ｜ Backend ｜ Restful API ｜ Part 2.mkv",
+        "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 9,
+        "name": "Flutter Video 4",
+        "url": "http://localhost:8000/Flutter Shop App ｜ Riverpod ｜ Dart ｜ Backend ｜ Part 4.mkv",
+        "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 10,
+        "name": "Flutter Video 5",
+        "url": "http://localhost:8000/Master Riverpod 2.0 With Rest Api (Play Online Videos List) ｜ Part 5.mkv",
+        "thumbnail": "http://localhost:8000/flutter2.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 11,
+        "name": "Flutter Video 6",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "flutter2",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": []
+  },
+  {
+    "id": 10,
+    "name": "flutter 3",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 8,
+        "name": "Flutter Video 3",
+        "url": "http://localhost:8000/Flutter E-commerce App Tutorial ｜ Riverpod ｜ Dart ｜ Backend ｜ Part 3.webm",
+        "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "flutter 4",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutte_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": []
+  },
+  {
+    "id": 12,
+    "name": "flutter 5",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutter2.jpg",
+    "description": "A lesson about sample topics",
+    "video": []
+  },
+  {
+    "id": 13,
+    "name": "flutter 6",
+    "courId": 1,
+    "thumbnail": "http://localhost:8000/flutter3.jpg",
+    "description": "A lesson about sample topics",
+    "video": []
+  },
+  {
+    "id": 14,
+    "name": "flutter 7",
+    "courId": 7,
+    "thumbnail": "http://localhost:8000/flutter_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 12,
+        "name": "Flutter Video 6",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "flutter 8",
+    "courId": 7,
+    "thumbnail": "http://localhost:8000/flutter_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 14,
+        "name": "Video 10",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "flutter 9",
+    "courId": 7,
+    "thumbnail": "http://localhost:8000/flutter_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 15,
+        "name": "Video 11",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 16,
+        "name": "Video 12",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 17,
+        "name": "Video 13",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "flutter 10",
+    "courId": 7,
+    "thumbnail": "http://localhost:8000/flutter_image1.jpg",
+    "description": "A lesson about sample topics",
+    "video": [
+      {
+        "id": 18,
+        "name": "Video 11",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 19,
+        "name": "Video 12",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      },
+      {
+        "id": 20,
+        "name": "Video 13",
+        "url": "http://localhost:8000/Flutter App Building Advanced Concepts ｜ Part 6.mkv",
+        "thumbnail": "http://localhost:8000/flutter6.jpg",
+        "lesson_id": null,
+        "lessonName": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,161 @@
+GET http://localhost:8080/api/lesson/getAllLessons
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoicmVmcmVzaCIsInN1YiI6ImxhbWluZUBnbWFpbC5jb20iLCJpYXQiOjE3MzA0NjA1NDEsImV4cCI6MTczMTA2NTM0MX0.t7sCGVyAe0ZJANpPCuMkE4K2U48RgYUOsGL9v8eQJ7M
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+###
+
+GET http://127.0.0.1:8080/api/auth/login
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+###
+
+POST http://localhost:8080/api/auth/login
+Content-Type: application/json
+Content-Length: 55
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "lamine@gmail.com",
+  "password": "1234"
+}
+
+<> 2024-11-12T215802.200.json
+
+###
+
+POST http://localhost:8080/api/auth/login
+Content-Type: application/json
+Content-Length: 55
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "lamine@gmail.com",
+  "password": "1234"
+}
+
+###
+
+GET http://localhost:8080/api/lesson/getAllLessons
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoicmVmcmVzaCIsInN1YiI6ImxhbWluZUBnbWFpbC5jb20iLCJpYXQiOjE3MzA0NjA1NDEsImV4cCI6MTczMTA2NTM0MX0.t7sCGVyAe0ZJANpPCuMkE4K2U48RgYUOsGL9v8eQJ7M
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+###
+
+GET http://127.0.0.1:8080/api/auth/login
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+###
+
+GET http://127.0.0.1:8080/actuator
+Accept: application/vnd.spring-boot.actuator.v3+json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+cookie:
+content-length: 0
+
+###
+
+GET http://127.0.0.1:8080/api/auth/login
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+###
+
+GET http://localhost:8080/api/lesson/getAllLessons
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoicmVmcmVzaCIsInN1YiI6ImxhbWluZUBnbWFpbC5jb20iLCJpYXQiOjE3MzA0NjA1NDEsImV4cCI6MTczMTA2NTM0MX0.t7sCGVyAe0ZJANpPCuMkE4K2U48RgYUOsGL9v8eQJ7M
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+###
+
+GET http://127.0.0.1:8080/actuator
+Accept: application/vnd.spring-boot.actuator.v3+json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+cookie:
+content-length: 0
+
+###
+
+GET http://localhost:8080/api/lesson/getAllLessons
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoicmVmcmVzaCIsInN1YiI6ImxhbWluZUBnbWFpbC5jb20iLCJpYXQiOjE3MzA0NjA1NDEsImV4cCI6MTczMTA2NTM0MX0.t7sCGVyAe0ZJANpPCuMkE4K2U48RgYUOsGL9v8eQJ7M
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-11-06T022930.200.json
+
+###
+
+POST http://localhost:8080/api/cour/getAllCours
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoicmVmcmVzaCIsInN1YiI6ImxhbWluZUBnbWFpbC5jb20iLCJpYXQiOjE3MzA0NjA1NDEsImV4cCI6MTczMTA2NTM0MX0.t7sCGVyAe0ZJANpPCuMkE4K2U48RgYUOsGL9v8eQJ7M
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-11-06T022857.200.json
+
+###
+
+GET http://localhost:8080/api/user/getAllUsers
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+###
+
+GET http://localhost:8080/api/user/getAllUsers
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+cookie:
+content-length: 0
+
+###
+
+POST http://localhost:8080/api/auth/login
+Content-Type: application/json
+Content-Length: 55
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "lamine@gmail.com",
+  "password": "1234"
+}
+
+<> 2024-11-06T022725.200.json
+
+###
+
